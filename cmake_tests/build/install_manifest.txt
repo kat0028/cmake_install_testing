@@ -1,0 +1,3 @@
+/stable/lib/cmake_test/libcmake_test.so
+/stable/include/cmake_test/cmake_test.hpp
+/usr/local/lib/cmake/cmake_test/cmake_testConfig.cmake

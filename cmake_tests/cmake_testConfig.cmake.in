@@ -1,0 +1,11 @@
+set(CMAKE_TEST_VERSION 0.0.0)
+
+@PACKAGE_INIT@
+
+set(PACKAGE_PREFIX_DIR "/stable")
+set(CMAKE_TEST_LIB_DIR "${PACKAGE_PREFIX_DIR}/lib/cmake_test")
+set(CMAKE_TEST_INCLUDE_DIR "${PACKAGE_PREFIX_DIR}/include")
+link_directories(${CMAKE_TEST_LIB_DIR})
+include_directories(${CMAKE_TEST_INCLUDE_DIR})
+
+check_required_components(cmake_test)

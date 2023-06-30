@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/test.dir/src/test_pkg.cpp.o  -o test   -L/stable/lib/cmake_test  -Wl,-rpath,/stable/lib/cmake_test -lcmake_test 
