@@ -1,3 +1,0 @@
-/home/kyle/devel/cmake_install_testing/test_pkg/build/CMakeFiles/rebuild_cache.dir
-/home/kyle/devel/cmake_install_testing/test_pkg/build/CMakeFiles/edit_cache.dir
-/home/kyle/devel/cmake_install_testing/test_pkg/build/CMakeFiles/test.dir

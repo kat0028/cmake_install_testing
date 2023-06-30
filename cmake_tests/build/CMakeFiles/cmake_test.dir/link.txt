@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libcmake_test.so -o libcmake_test.so CMakeFiles/cmake_test.dir/src/cmake_test.cpp.o 
