@@ -1,6 +1,5 @@
-#CMake Install Testing
----
-##cmake_tests
+# CMake Install Testing
+## cmake_tests
 To install the package run the following in build:
 ```
 cmake ..
@@ -8,7 +7,7 @@ make
 cmake --install .
 ```
 
-##test_pkg
+## test_pkg
 To include and use the test library package the following line needs to be included in CMakeLists.txt:
 ```
 find_package(cmake_test)
